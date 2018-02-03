@@ -1,0 +1,24 @@
+{
+  "name": "Hangman-In-Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sicknick2030/Hangman-In-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sicknick2030/Hangman-In-Node/issues"
+  },
+  "homepage": "https://github.com/sicknick2030/Hangman-In-Node#readme"
+}
